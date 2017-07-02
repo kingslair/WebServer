@@ -1,0 +1,476 @@
+        -:    0:Source:/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../include/c++/4.4.7/bits/basic_ios.h
+        -:    0:Programs:14
+        -:    1:// Iostreams base classes -*- C++ -*-
+        -:    2:
+        -:    3:// Copyright (C) 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005,
+        -:    4:// 2006, 2007, 2008, 2009
+        -:    5:// Free Software Foundation, Inc.
+        -:    6://
+        -:    7:// This file is part of the GNU ISO C++ Library.  This library is free
+        -:    8:// software; you can redistribute it and/or modify it under the
+        -:    9:// terms of the GNU General Public License as published by the
+        -:   10:// Free Software Foundation; either version 3, or (at your option)
+        -:   11:// any later version.
+        -:   12:
+        -:   13:// This library is distributed in the hope that it will be useful,
+        -:   14:// but WITHOUT ANY WARRANTY; without even the implied warranty of
+        -:   15:// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        -:   16:// GNU General Public License for more details.
+        -:   17:
+        -:   18:// Under Section 7 of GPL version 3, you are granted additional
+        -:   19:// permissions described in the GCC Runtime Library Exception, version
+        -:   20:// 3.1, as published by the Free Software Foundation.
+        -:   21:
+        -:   22:// You should have received a copy of the GNU General Public License and
+        -:   23:// a copy of the GCC Runtime Library Exception along with this program;
+        -:   24:// see the files COPYING3 and COPYING.RUNTIME respectively.  If not, see
+        -:   25:// <http://www.gnu.org/licenses/>.
+        -:   26:
+        -:   27:/** @file basic_ios.h
+        -:   28: *  This is an internal header file, included by other library headers.
+        -:   29: *  You should not attempt to use it directly.
+        -:   30: */
+        -:   31:
+        -:   32:#ifndef _BASIC_IOS_H
+        -:   33:#define _BASIC_IOS_H 1
+        -:   34:
+        -:   35:#pragma GCC system_header
+        -:   36:
+        -:   37:#include <bits/localefwd.h>
+        -:   38:#include <bits/locale_classes.h>
+        -:   39:#include <bits/locale_facets.h>
+        -:   40:#include <bits/streambuf_iterator.h>
+        -:   41:
+        -:   42:_GLIBCXX_BEGIN_NAMESPACE(std)
+        -:   43:
+        -:   44:  template<typename _Facet>
+        -:   45:    inline const _Facet&
+    #####:   46:    __check_facet(const _Facet* __f)
+        -:   47:    {
+    #####:   48:      if (!__f)
+    #####:   49:	__throw_bad_cast();
+    #####:   50:      return *__f;
+        -:   51:    }
+        -:   52:
+        -:   53:  // 27.4.5  Template class basic_ios
+        -:   54:  /**
+        -:   55:   *  @brief  Virtual base class for all stream classes.
+        -:   56:   *  @ingroup io
+        -:   57:   *
+        -:   58:   *  Most of the member functions called dispatched on stream objects
+        -:   59:   *  (e.g., @c std::cout.foo(bar);) are consolidated in this class.
+        -:   60:  */
+        -:   61:  template<typename _CharT, typename _Traits>
+        -:   62:    class basic_ios : public ios_base
+        -:   63:    {
+        -:   64:    public:
+        -:   65:      //@{
+        -:   66:      /**
+        -:   67:       *  These are standard types.  They permit a standardized way of
+        -:   68:       *  referring to names of (or names dependant on) the template
+        -:   69:       *  parameters, which are specific to the implementation.
+        -:   70:      */
+        -:   71:      typedef _CharT                                 char_type;
+        -:   72:      typedef typename _Traits::int_type             int_type;
+        -:   73:      typedef typename _Traits::pos_type             pos_type;
+        -:   74:      typedef typename _Traits::off_type             off_type;
+        -:   75:      typedef _Traits                                traits_type;
+        -:   76:      //@}
+        -:   77:
+        -:   78:      //@{
+        -:   79:      /**
+        -:   80:       *  These are non-standard types.
+        -:   81:      */
+        -:   82:      typedef ctype<_CharT>                          __ctype_type;
+        -:   83:      typedef num_put<_CharT, ostreambuf_iterator<_CharT, _Traits> >
+        -:   84:						     __num_put_type;
+        -:   85:      typedef num_get<_CharT, istreambuf_iterator<_CharT, _Traits> >
+        -:   86:						     __num_get_type;
+        -:   87:      //@}
+        -:   88:
+        -:   89:      // Data members:
+        -:   90:    protected:
+        -:   91:      basic_ostream<_CharT, _Traits>*                _M_tie;
+        -:   92:      mutable char_type                              _M_fill;
+        -:   93:      mutable bool                                   _M_fill_init;
+        -:   94:      basic_streambuf<_CharT, _Traits>*              _M_streambuf;
+        -:   95:
+        -:   96:      // Cached use_facet<ctype>, which is based on the current locale info.
+        -:   97:      const __ctype_type*                            _M_ctype;
+        -:   98:      // For ostream.
+        -:   99:      const __num_put_type*                          _M_num_put;
+        -:  100:      // For istream.
+        -:  101:      const __num_get_type*                          _M_num_get;
+        -:  102:
+        -:  103:    public:
+        -:  104:      //@{
+        -:  105:      /**
+        -:  106:       *  @brief  The quick-and-easy status check.
+        -:  107:       *
+        -:  108:       *  This allows you to write constructs such as
+        -:  109:       *  "if (!a_stream) ..." and "while (a_stream) ..."
+        -:  110:      */
+        -:  111:      operator void*() const
+        -:  112:      { return this->fail() ? 0 : const_cast<basic_ios*>(this); }
+        -:  113:
+        -:  114:      bool
+        -:  115:      operator!() const
+        -:  116:      { return this->fail(); }
+        -:  117:      //@}
+        -:  118:
+        -:  119:      /**
+        -:  120:       *  @brief  Returns the error state of the stream buffer.
+        -:  121:       *  @return  A bit pattern (well, isn't everything?)
+        -:  122:       *
+        -:  123:       *  See std::ios_base::iostate for the possible bit values.  Most
+        -:  124:       *  users will call one of the interpreting wrappers, e.g., good().
+        -:  125:      */
+        -:  126:      iostate
+    #####:  127:      rdstate() const
+    #####:  128:      { return _M_streambuf_state; }
+        -:  129:
+        -:  130:      /**
+        -:  131:       *  @brief  [Re]sets the error state.
+        -:  132:       *  @param  state  The new state flag(s) to set.
+        -:  133:       *
+        -:  134:       *  See std::ios_base::iostate for the possible bit values.  Most
+        -:  135:       *  users will not need to pass an argument.
+        -:  136:      */
+        -:  137:      void
+        -:  138:      clear(iostate __state = goodbit);
+        -:  139:
+        -:  140:      /**
+        -:  141:       *  @brief  Sets additional flags in the error state.
+        -:  142:       *  @param  state  The additional state flag(s) to set.
+        -:  143:       *
+        -:  144:       *  See std::ios_base::iostate for the possible bit values.
+        -:  145:      */
+        -:  146:      void
+    #####:  147:      setstate(iostate __state)
+    #####:  148:      { this->clear(this->rdstate() | __state); }
+        -:  149:
+        -:  150:      // Flip the internal state on for the proper state bits, then re
+        -:  151:      // throws the propagated exception if bit also set in
+        -:  152:      // exceptions().
+        -:  153:      void
+        -:  154:      _M_setstate(iostate __state)
+        -:  155:      {
+        -:  156:	// 27.6.1.2.1 Common requirements.
+        -:  157:	// Turn this on without causing an ios::failure to be thrown.
+        -:  158:	_M_streambuf_state |= __state;
+        -:  159:	if (this->exceptions() & __state)
+        -:  160:	  __throw_exception_again;
+        -:  161:      }
+        -:  162:
+        -:  163:      /**
+        -:  164:       *  @brief  Fast error checking.
+        -:  165:       *  @return  True if no error flags are set.
+        -:  166:       *
+        -:  167:       *  A wrapper around rdstate.
+        -:  168:      */
+        -:  169:      bool
+        -:  170:      good() const
+        -:  171:      { return this->rdstate() == 0; }
+        -:  172:
+        -:  173:      /**
+        -:  174:       *  @brief  Fast error checking.
+        -:  175:       *  @return  True if the eofbit is set.
+        -:  176:       *
+        -:  177:       *  Note that other iostate flags may also be set.
+        -:  178:      */
+        -:  179:      bool
+        -:  180:      eof() const
+        -:  181:      { return (this->rdstate() & eofbit) != 0; }
+        -:  182:
+        -:  183:      /**
+        -:  184:       *  @brief  Fast error checking.
+        -:  185:       *  @return  True if either the badbit or the failbit is set.
+        -:  186:       *
+        -:  187:       *  Checking the badbit in fail() is historical practice.
+        -:  188:       *  Note that other iostate flags may also be set.
+        -:  189:      */
+        -:  190:      bool
+        -:  191:      fail() const
+        -:  192:      { return (this->rdstate() & (badbit | failbit)) != 0; }
+        -:  193:
+        -:  194:      /**
+        -:  195:       *  @brief  Fast error checking.
+        -:  196:       *  @return  True if the badbit is set.
+        -:  197:       *
+        -:  198:       *  Note that other iostate flags may also be set.
+        -:  199:      */
+        -:  200:      bool
+        -:  201:      bad() const
+        -:  202:      { return (this->rdstate() & badbit) != 0; }
+        -:  203:
+        -:  204:      /**
+        -:  205:       *  @brief  Throwing exceptions on errors.
+        -:  206:       *  @return  The current exceptions mask.
+        -:  207:       *
+        -:  208:       *  This changes nothing in the stream.  See the one-argument version
+        -:  209:       *  of exceptions(iostate) for the meaning of the return value.
+        -:  210:      */
+        -:  211:      iostate
+        -:  212:      exceptions() const
+        -:  213:      { return _M_exception; }
+        -:  214:
+        -:  215:      /**
+        -:  216:       *  @brief  Throwing exceptions on errors.
+        -:  217:       *  @param  except  The new exceptions mask.
+        -:  218:       *
+        -:  219:       *  By default, error flags are set silently.  You can set an
+        -:  220:       *  exceptions mask for each stream; if a bit in the mask becomes set
+        -:  221:       *  in the error flags, then an exception of type
+        -:  222:       *  std::ios_base::failure is thrown.
+        -:  223:       *
+        -:  224:       *  If the error flag is already set when the exceptions mask is
+        -:  225:       *  added, the exception is immediately thrown.  Try running the
+        -:  226:       *  following under GCC 3.1 or later:
+        -:  227:       *  @code
+        -:  228:       *  #include <iostream>
+        -:  229:       *  #include <fstream>
+        -:  230:       *  #include <exception>
+        -:  231:       *
+        -:  232:       *  int main()
+        -:  233:       *  {
+        -:  234:       *      std::set_terminate (__gnu_cxx::__verbose_terminate_handler);
+        -:  235:       *
+        -:  236:       *      std::ifstream f ("/etc/motd");
+        -:  237:       *
+        -:  238:       *      std::cerr << "Setting badbit\n";
+        -:  239:       *      f.setstate (std::ios_base::badbit);
+        -:  240:       *
+        -:  241:       *      std::cerr << "Setting exception mask\n";
+        -:  242:       *      f.exceptions (std::ios_base::badbit);
+        -:  243:       *  }
+        -:  244:       *  @endcode
+        -:  245:      */
+        -:  246:      void
+        -:  247:      exceptions(iostate __except)
+        -:  248:      {
+        -:  249:        _M_exception = __except;
+        -:  250:        this->clear(_M_streambuf_state);
+        -:  251:      }
+        -:  252:
+        -:  253:      // Constructor/destructor:
+        -:  254:      /**
+        -:  255:       *  @brief  Constructor performs initialization.
+        -:  256:       *
+        -:  257:       *  The parameter is passed by derived streams.
+        -:  258:      */
+        -:  259:      explicit
+        -:  260:      basic_ios(basic_streambuf<_CharT, _Traits>* __sb)
+        -:  261:      : ios_base(), _M_tie(0), _M_fill(), _M_fill_init(false), _M_streambuf(0),
+        -:  262:	_M_ctype(0), _M_num_put(0), _M_num_get(0)
+        -:  263:      { this->init(__sb); }
+        -:  264:
+        -:  265:      /**
+        -:  266:       *  @brief  Empty.
+        -:  267:       *
+        -:  268:       *  The destructor does nothing.  More specifically, it does not
+        -:  269:       *  destroy the streambuf held by rdbuf().
+        -:  270:      */
+        -:  271:      virtual
+    #####:  272:      ~basic_ios() { }
+        -:  273:
+        -:  274:      // Members:
+        -:  275:      /**
+        -:  276:       *  @brief  Fetches the current @e tied stream.
+        -:  277:       *  @return  A pointer to the tied stream, or NULL if the stream is
+        -:  278:       *           not tied.
+        -:  279:       *
+        -:  280:       *  A stream may be @e tied (or synchronized) to a second output
+        -:  281:       *  stream.  When this stream performs any I/O, the tied stream is
+        -:  282:       *  first flushed.  For example, @c std::cin is tied to @c std::cout.
+        -:  283:      */
+        -:  284:      basic_ostream<_CharT, _Traits>*
+        -:  285:      tie() const
+        -:  286:      { return _M_tie; }
+        -:  287:
+        -:  288:      /**
+        -:  289:       *  @brief  Ties this stream to an output stream.
+        -:  290:       *  @param  tiestr  The output stream.
+        -:  291:       *  @return  The previously tied output stream, or NULL if the stream
+        -:  292:       *           was not tied.
+        -:  293:       *
+        -:  294:       *  This sets up a new tie; see tie() for more.
+        -:  295:      */
+        -:  296:      basic_ostream<_CharT, _Traits>*
+        -:  297:      tie(basic_ostream<_CharT, _Traits>* __tiestr)
+        -:  298:      {
+        -:  299:        basic_ostream<_CharT, _Traits>* __old = _M_tie;
+        -:  300:        _M_tie = __tiestr;
+        -:  301:        return __old;
+        -:  302:      }
+        -:  303:
+        -:  304:      /**
+        -:  305:       *  @brief  Accessing the underlying buffer.
+        -:  306:       *  @return  The current stream buffer.
+        -:  307:       *
+        -:  308:       *  This does not change the state of the stream.
+        -:  309:      */
+        -:  310:      basic_streambuf<_CharT, _Traits>*
+        -:  311:      rdbuf() const
+        -:  312:      { return _M_streambuf; }
+        -:  313:
+        -:  314:      /**
+        -:  315:       *  @brief  Changing the underlying buffer.
+        -:  316:       *  @param  sb  The new stream buffer.
+        -:  317:       *  @return  The previous stream buffer.
+        -:  318:       *
+        -:  319:       *  Associates a new buffer with the current stream, and clears the
+        -:  320:       *  error state.
+        -:  321:       *
+        -:  322:       *  Due to historical accidents which the LWG refuses to correct, the
+        -:  323:       *  I/O library suffers from a design error:  this function is hidden
+        -:  324:       *  in derived classes by overrides of the zero-argument @c rdbuf(),
+        -:  325:       *  which is non-virtual for hysterical raisins.  As a result, you
+        -:  326:       *  must use explicit qualifications to access this function via any
+        -:  327:       *  derived class.  For example:
+        -:  328:       *
+        -:  329:       *  @code
+        -:  330:       *  std::fstream     foo;         // or some other derived type
+        -:  331:       *  std::streambuf*  p = .....;
+        -:  332:       *
+        -:  333:       *  foo.ios::rdbuf(p);            // ios == basic_ios<char>
+        -:  334:       *  @endcode
+        -:  335:      */
+        -:  336:      basic_streambuf<_CharT, _Traits>*
+        -:  337:      rdbuf(basic_streambuf<_CharT, _Traits>* __sb);
+        -:  338:
+        -:  339:      /**
+        -:  340:       *  @brief  Copies fields of __rhs into this.
+        -:  341:       *  @param  __rhs  The source values for the copies.
+        -:  342:       *  @return  Reference to this object.
+        -:  343:       *
+        -:  344:       *  All fields of __rhs are copied into this object except that rdbuf()
+        -:  345:       *  and rdstate() remain unchanged.  All values in the pword and iword
+        -:  346:       *  arrays are copied.  Before copying, each callback is invoked with
+        -:  347:       *  erase_event.  After copying, each (new) callback is invoked with
+        -:  348:       *  copyfmt_event.  The final step is to copy exceptions().
+        -:  349:      */
+        -:  350:      basic_ios&
+        -:  351:      copyfmt(const basic_ios& __rhs);
+        -:  352:
+        -:  353:      /**
+        -:  354:       *  @brief  Retrieves the "empty" character.
+        -:  355:       *  @return  The current fill character.
+        -:  356:       *
+        -:  357:       *  It defaults to a space (' ') in the current locale.
+        -:  358:      */
+        -:  359:      char_type
+        -:  360:      fill() const
+        -:  361:      {
+        -:  362:	if (!_M_fill_init)
+        -:  363:	  {
+        -:  364:	    _M_fill = this->widen(' ');
+        -:  365:	    _M_fill_init = true;
+        -:  366:	  }
+        -:  367:	return _M_fill;
+        -:  368:      }
+        -:  369:
+        -:  370:      /**
+        -:  371:       *  @brief  Sets a new "empty" character.
+        -:  372:       *  @param  ch  The new character.
+        -:  373:       *  @return  The previous fill character.
+        -:  374:       *
+        -:  375:       *  The fill character is used to fill out space when P+ characters
+        -:  376:       *  have been requested (e.g., via setw), Q characters are actually
+        -:  377:       *  used, and Q<P.  It defaults to a space (' ') in the current locale.
+        -:  378:      */
+        -:  379:      char_type
+        -:  380:      fill(char_type __ch)
+        -:  381:      {
+        -:  382:	char_type __old = this->fill();
+        -:  383:	_M_fill = __ch;
+        -:  384:	return __old;
+        -:  385:      }
+        -:  386:
+        -:  387:      // Locales:
+        -:  388:      /**
+        -:  389:       *  @brief  Moves to a new locale.
+        -:  390:       *  @param  loc  The new locale.
+        -:  391:       *  @return  The previous locale.
+        -:  392:       *
+        -:  393:       *  Calls @c ios_base::imbue(loc), and if a stream buffer is associated
+        -:  394:       *  with this stream, calls that buffer's @c pubimbue(loc).
+        -:  395:       *
+        -:  396:       *  Additional l10n notes are at
+        -:  397:       *  http://gcc.gnu.org/onlinedocs/libstdc++/manual/localization.html
+        -:  398:      */
+        -:  399:      locale
+        -:  400:      imbue(const locale& __loc);
+        -:  401:
+        -:  402:      /**
+        -:  403:       *  @brief  Squeezes characters.
+        -:  404:       *  @param  c  The character to narrow.
+        -:  405:       *  @param  dfault  The character to narrow.
+        -:  406:       *  @return  The narrowed character.
+        -:  407:       *
+        -:  408:       *  Maps a character of @c char_type to a character of @c char,
+        -:  409:       *  if possible.
+        -:  410:       *
+        -:  411:       *  Returns the result of
+        -:  412:       *  @code
+        -:  413:       *    std::use_facet<ctype<char_type> >(getloc()).narrow(c,dfault)
+        -:  414:       *  @endcode
+        -:  415:       *
+        -:  416:       *  Additional l10n notes are at
+        -:  417:       *  http://gcc.gnu.org/onlinedocs/libstdc++/manual/localization.html
+        -:  418:      */
+        -:  419:      char
+        -:  420:      narrow(char_type __c, char __dfault) const
+        -:  421:      { return __check_facet(_M_ctype).narrow(__c, __dfault); }
+        -:  422:
+        -:  423:      /**
+        -:  424:       *  @brief  Widens characters.
+        -:  425:       *  @param  c  The character to widen.
+        -:  426:       *  @return  The widened character.
+        -:  427:       *
+        -:  428:       *  Maps a character of @c char to a character of @c char_type.
+        -:  429:       *
+        -:  430:       *  Returns the result of
+        -:  431:       *  @code
+        -:  432:       *    std::use_facet<ctype<char_type> >(getloc()).widen(c)
+        -:  433:       *  @endcode
+        -:  434:       *
+        -:  435:       *  Additional l10n notes are at
+        -:  436:       *  http://gcc.gnu.org/onlinedocs/libstdc++/manual/localization.html
+        -:  437:      */
+        -:  438:      char_type
+    #####:  439:      widen(char __c) const
+    #####:  440:      { return __check_facet(_M_ctype).widen(__c); }
+        -:  441:
+        -:  442:    protected:
+        -:  443:      // 27.4.5.1  basic_ios constructors
+        -:  444:      /**
+        -:  445:       *  @brief  Empty.
+        -:  446:       *
+        -:  447:       *  The default constructor does nothing and is not normally
+        -:  448:       *  accessible to users.
+        -:  449:      */
+    #####:  450:      basic_ios()
+        -:  451:      : ios_base(), _M_tie(0), _M_fill(char_type()), _M_fill_init(false), 
+    #####:  452:	_M_streambuf(0), _M_ctype(0), _M_num_put(0), _M_num_get(0)
+    #####:  453:      { }
+        -:  454:
+        -:  455:      /**
+        -:  456:       *  @brief  All setup is performed here.
+        -:  457:       *
+        -:  458:       *  This is called from the public constructor.  It is not virtual and
+        -:  459:       *  cannot be redefined.
+        -:  460:      */
+        -:  461:      void
+        -:  462:      init(basic_streambuf<_CharT, _Traits>* __sb);
+        -:  463:
+        -:  464:      void
+        -:  465:      _M_cache_locale(const locale& __loc);
+        -:  466:    };
+        -:  467:
+        -:  468:_GLIBCXX_END_NAMESPACE
+        -:  469:
+        -:  470:#ifndef _GLIBCXX_EXPORT_TEMPLATE
+        -:  471:#include <bits/basic_ios.tcc>
+        -:  472:#endif
+        -:  473:
+        -:  474:#endif /* _BASIC_IOS_H */

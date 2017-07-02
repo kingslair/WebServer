@@ -1,0 +1,22 @@
+
+name: rajat%26bajpai
+age: 21
+add: sahibabad
+name: rajat%26bajpai
+age: 21
+add: sahibabad
+name: rajat%26bajpai
+age: 21
+add: sahibabad
+name: rajat%26bajpai
+age: 21
+addr: sahibabad
+name: rajat
+name: rajat
+upload: Project_C++/www/badass.gif
+: c.setopt(c.HTTPPOST, [
+: c.perform()
+: c.setopt(c.HTTPPOST, [
+: c.perform()
+: c.setopt(c.HTTPPOST, [
+: c.perform()
