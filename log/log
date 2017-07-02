@@ -1,0 +1,1529 @@
+Thu, 02 Jun 2016 09:55:44 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 09:55:44 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 09:55:44 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 09:55:44 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 09:55:44 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 09:55:44 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 09:55:44 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 09:55:44 +0530 INFO Starting Server
+Thu, 02 Jun 2016 09:55:44 +0530 INFO Server Started
+Thu, 02 Jun 2016 09:55:44 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 09:56:47 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 09:56:47 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 09:56:47 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 09:56:47 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 09:56:47 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 09:56:47 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 09:56:47 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 09:56:47 +0530 INFO Starting Server
+Thu, 02 Jun 2016 09:56:47 +0530 INFO Server Started
+Thu, 02 Jun 2016 09:56:47 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 09:56:59 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:56:59 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 09:56:59 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:56:59 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 09:57:00 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:00 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 09:57:00 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:00 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 09:57:01 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:01 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:01 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 09:57:02 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 09:57:02 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:02 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:02 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:03 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 09:57:03 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:03 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:03 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 09:57:03 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:03 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:03 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:06 +0530 INFO Base Directory Created Thread-2
+Thu, 02 Jun 2016 09:57:06 +0530 INFO Resource Created ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 09:57:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:07 +0530 INFO Base Directory Created Thread-1
+Thu, 02 Jun 2016 09:57:07 +0530 INFO Resource Created ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 09:57:08 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:08 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:08 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:08 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 09:57:08 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 09:57:10 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:10 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:10 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:10 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:10 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 09:57:11 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 09:57:12 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:12 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:12 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 09:57:12 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 09:57:13 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:13 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 09:57:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:14 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 09:57:14 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 09:57:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 09:57:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 09:57:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 09:57:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 09:57:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 09:57:14 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 09:57:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 09:57:15 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 09:57:15 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 10:02:10 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:02:10 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:02:10 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:02:10 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:02:10 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:02:10 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:02:10 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:02:10 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:02:10 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:02:10 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:02:14 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:14 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:14 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/
+Thu, 02 Jun 2016 10:02:14 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:02:14 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:15 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/blurred-wallpaper-18.jpg
+Thu, 02 Jun 2016 10:02:15 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:26 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:26 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:26 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/jj
+Thu, 02 Jun 2016 10:02:26 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/jj/index2.html
+Thu, 02 Jun 2016 10:02:26 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:26 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:31 +0530 INFO [client 10.204.37.18] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 10:02:31 +0530 INFO [client 10.204.37.18] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 10:02:36 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:36 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:39 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:39 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:39 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:39 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:02:39 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:40 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:02:40 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:40 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/favicon.ico
+Thu, 02 Jun 2016 10:02:41 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:42 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:42 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:02:44 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:44 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:44 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:44 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/favicon.ico
+Thu, 02 Jun 2016 10:02:44 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:02:44 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:44 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:44 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:44 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/favicon.ico
+Thu, 02 Jun 2016 10:02:44 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:47 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:47 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:02:57 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:02:57 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:03:19 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 10:03:43 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:03:43 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:03:43 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:03:43 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:03:43 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:03:43 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:03:43 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:03:43 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:03:43 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:03:43 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:03:59 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:03:59 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 10:03:59 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:03:59 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 10:04:00 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:00 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 10:04:00 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:00 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 10:04:01 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:01 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 10:04:01 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:01 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:02 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:02 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:04:02 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:02 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:02 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:04:02 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:02 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:02 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:04:03 +0530 INFO Base Directory Created Thread-1
+Thu, 02 Jun 2016 10:04:03 +0530 INFO Resource Created ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:04:04 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:04 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:04 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:04 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:07 +0530 INFO Base Directory Created Thread-2
+Thu, 02 Jun 2016 10:04:07 +0530 INFO Resource Created ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:04:08 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:04:10 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:10 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:04:10 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:10 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:10 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:04:10 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:04:10 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 10:04:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:14 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:14 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:04:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:14 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:04:14 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 10:04:15 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:15 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:04:15 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:04:15 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:04:15 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:15 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:04:15 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:04:15 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:15 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:04:16 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:04:16 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 10:04:16 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:16 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 10:04:16 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:16 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 10:04:16 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:16 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 10:04:16 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 10:04:44 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 10:06:40 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:06:40 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:06:40 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:06:40 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:06:40 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:06:40 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:06:40 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:06:40 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:06:40 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:06:40 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:06:49 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:49 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 10:06:49 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:49 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 10:06:50 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:50 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 10:06:50 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:50 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 10:06:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:53 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 10:06:53 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:54 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:06:54 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:54 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:54 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:06:54 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:06:54 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:55 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:06:55 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:06:55 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:06:55 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:55 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:06:55 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:06:58 +0530 INFO Base Directory Created Thread-1
+Thu, 02 Jun 2016 10:06:58 +0530 INFO Resource Created ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:07:00 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:00 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:07:00 +0530 INFO Base Directory Created Thread-2
+Thu, 02 Jun 2016 10:07:00 +0530 INFO Resource Created ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:07:01 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:01 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:07:01 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:07:01 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:07:01 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:01 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:07:01 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:07:01 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:01 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:07:02 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 10:07:03 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:03 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:07:03 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 10:07:06 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:07:06 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:06 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:07:06 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:07:06 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:07:07 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 10:07:07 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 10:07:44 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 10:08:03 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:08:03 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:08:03 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:08:03 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:08:03 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:08:03 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:08:03 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:08:03 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:08:03 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:08:03 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:08:18 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:08:18 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:08:35 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:08:46 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:09:00 +0530 INFO [client 10.204.37.18] [OPTIONS] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 10:09:00 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 10:09:07 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:09:07 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/random
+Thu, 02 Jun 2016 10:09:07 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] 404 ERROR ../../www/random/index2.html
+Thu, 02 Jun 2016 10:09:34 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 10:10:20 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:10:20 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:10:20 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:10:20 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:10:20 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:10:20 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:10:20 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:10:20 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:10:20 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:10:20 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:11:45 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:11:45 +0530 INFO Base Directory Created random
+Thu, 02 Jun 2016 10:11:45 +0530 INFO Resource Created ../../www/random/working_4.jpg
+Thu, 02 Jun 2016 10:11:55 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:11:55 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:11:55 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/random/working_4.jpg
+Thu, 02 Jun 2016 10:11:55 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:12:21 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:12:23 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:12:23 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:12:23 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/gosling/working_4.jpeg
+Thu, 02 Jun 2016 10:12:23 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:12:50 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 10:16:14 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:16:14 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:16:14 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:16:14 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:16:14 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:16:14 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:16:14 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:16:14 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:16:14 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:16:14 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:16:21 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:16:21 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/
+Thu, 02 Jun 2016 10:16:21 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:17:04 +0530 FINE [Client 10.204.37.18] GET[Page Served] 404 Error
+Thu, 02 Jun 2016 10:21:39 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:21:39 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:21:39 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:21:39 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:21:39 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:21:39 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:21:54 +0530 SEVERE Valid Socket Not Created
+Thu, 02 Jun 2016 10:22:11 +0530 SEVERE Valid Socket Not Created
+Thu, 02 Jun 2016 10:22:13 +0530 SEVERE No Valid Socket and Bind Exit
+Thu, 02 Jun 2016 10:24:11 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:24:11 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:24:11 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:24:11 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:24:11 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:24:52 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:24:52 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:24:52 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:24:52 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:24:52 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:24:52 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:24:52 +0530 SEVERE Binding to Socket failed
+Thu, 02 Jun 2016 10:24:52 +0530 SEVERE Binding to Socket failed
+Thu, 02 Jun 2016 10:24:52 +0530 SEVERE No Valid Socket and Bind Exit
+Thu, 02 Jun 2016 10:25:15 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:25:15 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:25:15 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:25:15 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:25:15 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:25:15 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:25:15 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:25:15 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:26:58 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:26:58 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:26:58 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:26:58 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:26:58 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:26:58 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:26:58 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:26:58 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:26:58 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:26:58 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:27:28 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:28:09 +0530 INFO [client 10.204.37.18] [400 BAD REQUEST]
+Thu, 02 Jun 2016 10:29:54 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:29:54 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:29:54 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:29:54 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:29:54 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:29:54 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:29:54 +0530 SEVERE Binding to Socket failed
+Thu, 02 Jun 2016 10:29:54 +0530 SEVERE Binding to Socket failed
+Thu, 02 Jun 2016 10:29:54 +0530 SEVERE No Valid Socket and Bind Exit
+Thu, 02 Jun 2016 10:29:59 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:29:59 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:29:59 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:29:59 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:29:59 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:29:59 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:29:59 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:29:59 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:29:59 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:29:59 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:30:10 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:10 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 10:30:10 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:10 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 10:30:11 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:11 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 10:30:11 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:11 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 10:30:13 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:13 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:13 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 10:30:13 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 10:30:14 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:14 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:14 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:30:14 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:30:15 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:30:15 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:15 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:15 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:15 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:30:15 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:30:15 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:15 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:15 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:30:15 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:15 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:30:15 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:30:15 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:15 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:16 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:16 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:16 +0530 INFO Base Directory Created Thread-1
+Thu, 02 Jun 2016 10:30:17 +0530 INFO Resource Created ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:30:18 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:18 +0530 INFO Base Directory Created Thread-2
+Thu, 02 Jun 2016 10:30:18 +0530 INFO Resource Created ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:30:20 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:20 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:20 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:20 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:30:20 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:30:20 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:20 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:20 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:30:21 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 10:30:23 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:23 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:23 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 10:30:23 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:23 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:30:23 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 10:30:25 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:30:25 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:30:25 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:25 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:25 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:30:25 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 10:30:25 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 10:30:25 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 10:30:25 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:25 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 10:30:25 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 10:30:27 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:27 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:27 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 10:30:27 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 10:30:27 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:27 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 10:30:27 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 10:30:27 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 10:31:06 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 10:32:02 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:32:02 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:32:02 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:32:02 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:32:02 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:32:02 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:32:02 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:32:02 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:32:02 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:32:02 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:32:11 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:32:28 +0530 INFO [client 10.204.37.18] [400 BAD REQUEST]
+Thu, 02 Jun 2016 10:33:22 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:34:15 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:34:15 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:34:15 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:34:15 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:34:15 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:34:15 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:34:15 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:34:15 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:34:15 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:34:15 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:34:23 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:34:23 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 10:34:23 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:34:40 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:34:40 +0530 INFO [client 10.204.37.18] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:34:40 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:34:42 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:34:42 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:34:43 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:34:50 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:34:50 +0530 INFO [client 10.204.37.18] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 10:34:50 +0530 INFO [client 10.204.37.18] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 10:34:58 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:34:58 +0530 INFO [client 10.204.37.18] [GET] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 10:35:00 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:35:00 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/codes/first_page.html
+Thu, 02 Jun 2016 10:35:00 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:35:11 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:35:11 +0530 INFO [client 10.204.37.18] [GET] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 10:35:13 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:35:13 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/html_page/secpage.html
+Thu, 02 Jun 2016 10:35:21 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:35:21 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/asdsad
+Thu, 02 Jun 2016 10:35:21 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/asdsad/index2.html
+Thu, 02 Jun 2016 10:35:24 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:35:24 +0530 INFO [client 10.204.37.18] [HEAD] [Page Requested] ../../www/asdsad
+Thu, 02 Jun 2016 10:35:24 +0530 INFO [client 10.204.37.18] [HEAD] [Page Requested] 404 ERROR ../../www/asdsad/index2.html
+Thu, 02 Jun 2016 10:35:29 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:35:29 +0530 INFO [client 10.204.37.18] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 10:35:31 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:35:31 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/html_page/secpage.html
+Thu, 02 Jun 2016 10:35:59 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 10:36:52 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:36:52 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:36:52 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:36:52 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:36:52 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:36:52 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:36:52 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:36:52 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:36:52 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:36:52 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:37:08 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:37:08 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:37:08 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:37:25 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 10:38:18 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:38:18 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:38:18 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:38:18 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:38:18 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:38:18 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:38:18 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:38:19 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:38:19 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:38:19 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:38:34 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:38:34 +0530 INFO [client 10.204.37.18] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:38:34 +0530 INFO [Client 10.204.37.18] [POST] [NEW RESOURCE CREATED] ../../www/working_4.jpeg
+Thu, 02 Jun 2016 10:38:36 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:38:36 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:38:36 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/working_4.jpeg
+Thu, 02 Jun 2016 10:38:37 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:39:00 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:39:00 +0530 INFO [client 10.204.37.18] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:39:00 +0530 INFO [Client 10.204.37.18] [POST] [FILE CREATED] ../../www/POST/data_1464844140.data
+Thu, 02 Jun 2016 10:39:00 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:39:14 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 10:42:41 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 10:42:41 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 10:42:41 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 10:42:41 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 10:42:41 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 10:42:41 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 10:42:41 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 10:42:41 +0530 INFO Starting Server
+Thu, 02 Jun 2016 10:42:41 +0530 INFO Server Started
+Thu, 02 Jun 2016 10:42:41 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 10:42:52 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:42:52 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:42:52 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 10:43:10 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 10:43:10 +0530 INFO [client 10.204.37.18] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 10:44:09 +0530 SEVERE Memory Allocation unsuccessful
+Thu, 02 Jun 2016 11:09:25 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:09:25 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:09:25 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:09:25 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:09:25 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:09:25 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:09:25 +0530 SEVERE Binding to Socket failed
+Thu, 02 Jun 2016 11:09:25 +0530 SEVERE Binding to Socket failed
+Thu, 02 Jun 2016 11:09:25 +0530 SEVERE No Valid Socket and Bind Exit
+Thu, 02 Jun 2016 11:09:33 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:09:33 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:09:33 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:09:33 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:09:33 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:09:33 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:09:33 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 11:09:33 +0530 INFO Starting Server
+Thu, 02 Jun 2016 11:09:33 +0530 INFO Server Started
+Thu, 02 Jun 2016 11:09:33 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 11:09:46 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:09:46 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:09:51 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] 404 ERROR ../../www/index2.html1
+Thu, 02 Jun 2016 11:09:57 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:09:57 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 11:09:59 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] 404 ERROR ../../www/image.gif11
+Thu, 02 Jun 2016 11:11:00 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 11:12:40 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:12:40 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:12:40 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:12:40 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:12:40 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:12:40 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:12:40 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 11:12:40 +0530 INFO Starting Server
+Thu, 02 Jun 2016 11:12:40 +0530 INFO Server Started
+Thu, 02 Jun 2016 11:12:40 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 11:12:51 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:12:51 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] 404 ERROR ../../www/image.gif11
+Thu, 02 Jun 2016 11:12:55 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:12:55 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 11:13:27 +0530 FINE [Client 10.204.37.18] GET[Page Served] 404 Error
+Thu, 02 Jun 2016 11:14:31 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 11:16:00 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:16:00 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:16:00 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:16:00 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:16:00 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:16:00 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:16:00 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 11:16:00 +0530 INFO Starting Server
+Thu, 02 Jun 2016 11:16:00 +0530 INFO Server Started
+Thu, 02 Jun 2016 11:16:00 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 11:16:25 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:16:25 +0530 INFO [client 10.204.37.18] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:16:47 +0530 SEVERE Memory Allocation unsuccessful
+Thu, 02 Jun 2016 11:19:55 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:19:55 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:19:55 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:19:55 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:19:55 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:19:55 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:19:55 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 11:19:55 +0530 INFO Starting Server
+Thu, 02 Jun 2016 11:19:55 +0530 INFO Server Started
+Thu, 02 Jun 2016 11:19:55 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 11:20:02 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:20:31 +0530 INFO [client 10.204.37.18] [400 BAD REQUEST]
+Thu, 02 Jun 2016 11:21:29 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 11:22:39 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:22:39 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:22:39 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:22:39 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:22:39 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:22:39 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:22:39 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 11:22:39 +0530 INFO Starting Server
+Thu, 02 Jun 2016 11:22:39 +0530 INFO Server Started
+Thu, 02 Jun 2016 11:22:39 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 11:22:49 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:22:49 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/hah/
+Thu, 02 Jun 2016 11:22:49 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/hah/index2.html
+Thu, 02 Jun 2016 11:22:59 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:22:59 +0530 INFO [client 10.204.37.18] [PUT] [FILE CREATED] ../../www/PUT/data_1464846779.data
+Thu, 02 Jun 2016 11:22:59 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:23:14 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:23:17 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:23:17 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:23:17 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/hah//working_4.jpeg
+Thu, 02 Jun 2016 11:23:17 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:23:35 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 11:24:50 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:24:50 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:24:50 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:24:50 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:24:50 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:24:50 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:24:50 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 11:24:50 +0530 INFO Starting Server
+Thu, 02 Jun 2016 11:24:50 +0530 INFO Server Started
+Thu, 02 Jun 2016 11:24:50 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 11:24:55 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:24:55 +0530 SEVERE [client 10.204.37.18] [PUT] [UPDATING EXISTING RESOURCE] ../../www/hah//working_4.jpeg
+Thu, 02 Jun 2016 11:25:05 +0530 SEVERE Problem Occured in creating the Base Directory
+Thu, 02 Jun 2016 11:28:18 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:28:18 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:28:18 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:28:18 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:28:18 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:28:18 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:28:18 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 11:28:18 +0530 INFO Starting Server
+Thu, 02 Jun 2016 11:28:18 +0530 INFO Server Started
+Thu, 02 Jun 2016 11:28:18 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 11:28:28 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:28 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 11:28:28 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:28 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 11:28:29 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:29 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:29 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 11:28:29 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 11:28:30 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:30 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:30 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 11:28:30 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:31 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:28:31 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:31 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:28:31 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:31 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:28:31 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:32 +0530 INFO Base Directory Created Thread-2
+Thu, 02 Jun 2016 11:28:32 +0530 INFO Resource Created ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 11:28:36 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:37 +0530 INFO Base Directory Created Thread-1
+Thu, 02 Jun 2016 11:28:37 +0530 INFO Resource Created ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 11:28:38 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:38 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:38 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:38 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 11:28:38 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 11:28:38 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:38 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:38 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:38 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:38 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:28:39 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 11:28:40 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:40 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:40 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:28:40 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 11:28:43 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:43 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:28:43 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 11:28:43 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 11:28:43 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:28:43 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:43 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:28:43 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 11:28:43 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 11:28:43 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:43 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:43 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 11:28:43 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 11:28:43 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:43 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 11:28:44 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 11:28:44 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:44 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:44 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 11:28:44 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 11:28:44 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 11:28:44 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 11:28:44 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:44 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:44 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 11:28:44 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 11:28:44 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:44 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:28:44 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 11:28:44 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 11:31:02 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:02 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 11:31:02 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:02 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 11:31:03 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:03 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 11:31:03 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:03 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 11:31:04 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:04 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:04 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 11:31:04 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:05 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:31:05 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:05 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:31:05 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:05 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:31:05 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:05 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:06 +0530 INFO Base Directory Created Thread-1
+Thu, 02 Jun 2016 11:31:06 +0530 INFO Resource Created ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 11:31:07 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:08 +0530 INFO Base Directory Created Thread-2
+Thu, 02 Jun 2016 11:31:08 +0530 INFO Resource Created ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 11:31:09 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:09 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:09 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 11:31:09 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:09 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 11:31:09 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:09 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:31:09 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:09 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:31:10 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 11:31:12 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:31:12 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:12 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:31:12 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-1/working_4.jpeg
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-2/working_4.jpeg
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/haha.html
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/haha.html
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 11:31:14 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 11:32:03 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 11:32:24 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:32:27 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:32:28 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:32:29 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:32:29 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:32:30 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:32:30 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 11:32:30 +0530 INFO Starting Server
+Thu, 02 Jun 2016 11:32:31 +0530 INFO Server Started
+Thu, 02 Jun 2016 11:32:31 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 11:32:51 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:32:53 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/
+Thu, 02 Jun 2016 11:32:53 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:32:54 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:33:29 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:33:29 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/sources_C++.html
+Thu, 02 Jun 2016 11:33:29 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:33:32 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:33:37 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/sources/http_DELETE_request_handler.cpp
+Thu, 02 Jun 2016 11:33:37 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:33:41 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:33:46 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/sources/http_server.cpp
+Thu, 02 Jun 2016 11:33:46 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:33:48 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:33:50 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/sources_python.html
+Thu, 02 Jun 2016 11:33:50 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:33:53 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:33:53 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/testing/get_headers.py
+Thu, 02 Jun 2016 11:33:54 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:33:57 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:34:07 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:34:14 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 11:44:59 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:44:59 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:44:59 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:44:59 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:44:59 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:44:59 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:44:59 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 11:44:59 +0530 INFO Starting Server
+Thu, 02 Jun 2016 11:44:59 +0530 INFO Server Started
+Thu, 02 Jun 2016 11:44:59 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 11:45:03 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:45:03 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/
+Thu, 02 Jun 2016 11:45:03 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:45:03 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:45:03 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:45:03 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/blurred-wallpaper-18.jpg
+Thu, 02 Jun 2016 11:45:03 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:45:04 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:45:04 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/favicon.ico
+Thu, 02 Jun 2016 11:45:04 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:45:05 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:45:05 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/readme.txt
+Thu, 02 Jun 2016 11:45:05 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:45:10 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:45:16 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/readme.txt
+Thu, 02 Jun 2016 11:45:16 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:45:18 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 11:56:07 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 11:56:07 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 11:56:07 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 11:56:07 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 11:56:07 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 11:56:07 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 11:56:07 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 11:56:07 +0530 INFO Starting Server
+Thu, 02 Jun 2016 11:56:07 +0530 INFO Server Started
+Thu, 02 Jun 2016 11:56:07 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 11:56:20 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:20 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 11:56:20 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:20 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 11:56:21 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:21 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 11:56:21 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:21 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 11:56:22 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:22 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 11:56:22 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:22 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:23 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:23 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:56:23 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:23 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:56:23 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:56:23 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:23 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:23 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:56:24 +0530 INFO Base Directory Created Thread-1
+Thu, 02 Jun 2016 11:56:24 +0530 INFO Resource Created ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 11:56:26 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:26 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:26 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:26 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:26 +0530 INFO Base Directory Created Thread-2
+Thu, 02 Jun 2016 11:56:26 +0530 INFO Resource Created ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 11:56:27 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:27 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 11:56:27 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:27 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 11:56:27 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:27 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:27 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:56:27 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:27 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:56:28 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 11:56:30 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:30 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:56:30 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 11:56:30 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 11:56:32 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:32 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 11:56:32 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 11:56:32 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 11:56:32 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:56:32 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:32 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 11:56:32 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:32 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 11:56:32 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 11:56:32 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:32 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 11:56:32 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 11:56:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:33 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 11:56:33 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 11:56:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:33 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 11:56:33 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 11:56:33 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 11:56:33 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 11:56:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:33 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 11:56:33 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 11:56:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 11:56:33 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 11:56:33 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 12:01:17 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 12:01:20 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 12:01:21 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 12:01:22 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 12:01:22 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 12:01:23 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 12:01:23 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 12:01:23 +0530 INFO Starting Server
+Thu, 02 Jun 2016 12:01:23 +0530 INFO Server Started
+Thu, 02 Jun 2016 12:01:23 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 12:02:03 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:02:05 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/
+Thu, 02 Jun 2016 12:02:05 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 12:02:06 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:02:10 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:02:10 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/readme.txt
+Thu, 02 Jun 2016 12:02:10 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:02:14 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:02:21 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/notfound
+Thu, 02 Jun 2016 12:02:22 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/notfound/index2.html
+Thu, 02 Jun 2016 12:02:37 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:02:41 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/sources/http_request_handler.cpp
+Thu, 02 Jun 2016 12:02:41 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:02:42 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:02:44 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/testing/test_parser.py
+Thu, 02 Jun 2016 12:02:44 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:02:45 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:02:54 +0530 INFO [client 10.204.37.18] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 12:02:54 +0530 INFO [client 10.204.37.18] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 12:03:15 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:03:15 +0530 INFO [client 10.204.37.18] [GET] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 12:03:15 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:03:15 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/html_page/secpage.html
+Thu, 02 Jun 2016 12:03:24 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:03:24 +0530 INFO [client 10.204.37.18] [GET] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 12:03:24 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:03:24 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/codes/first_page.html
+Thu, 02 Jun 2016 12:03:25 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:04:03 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 12:07:06 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 12:07:07 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 12:07:07 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 12:07:07 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 12:07:07 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 12:07:08 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 12:07:08 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 12:07:08 +0530 INFO Starting Server
+Thu, 02 Jun 2016 12:07:08 +0530 INFO Server Started
+Thu, 02 Jun 2016 12:07:08 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 12:07:30 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:07:30 +0530 INFO [client 10.204.37.18] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 12:07:30 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:07:40 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:07:40 +0530 INFO [client 10.204.37.18] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 12:07:40 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:07:43 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:07:43 +0530 INFO [client 10.204.37.18] [HEAD] [Page Requested] 404 ERROR ../../www/image.gif1
+Thu, 02 Jun 2016 12:08:04 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 12:08:05 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 12:08:05 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 12:08:05 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 12:08:05 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 12:08:05 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 12:08:05 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 12:08:05 +0530 INFO Starting Server
+Thu, 02 Jun 2016 12:08:06 +0530 INFO Server Started
+Thu, 02 Jun 2016 12:08:06 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 12:08:09 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:08:09 +0530 INFO [client 10.204.37.18] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 12:08:12 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:08:12 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/html_page/secpage.html
+Thu, 02 Jun 2016 12:08:20 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:08:20 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] 404 ERROR ../../www/html_page/secpage.html
+Thu, 02 Jun 2016 12:08:25 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:08:25 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 12:08:58 +0530 INFO [client 10.204.37.18] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 12:08:58 +0530 INFO [Client 10.204.37.18] [POST] [NEW RESOURCE CREATED] ../../www/quotes.jpg
+Thu, 02 Jun 2016 12:09:01 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:09:01 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:09:01 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/quotes.jpg
+Thu, 02 Jun 2016 12:09:01 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:09:35 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:09:35 +0530 INFO [client 10.204.37.18] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 12:09:35 +0530 INFO [Client 10.204.37.18] [POST] [FILE CREATED] ../../www/POST/data_1464849575.data
+Thu, 02 Jun 2016 12:09:35 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:10:14 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:10:14 +0530 INFO [client 10.204.37.18] [POST] [Page Requested] ../../www/dog
+Thu, 02 Jun 2016 12:10:14 +0530 INFO [client 10.204.37.18] [POST] [Page Requested] 404 ERROR ../../www/dog/index2.html
+Thu, 02 Jun 2016 12:10:33 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:10:36 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:10:36 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:10:36 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/folder1/dino.jpeg
+Thu, 02 Jun 2016 12:10:36 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:10:54 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:10:56 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:10:56 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:10:57 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/folder2/folder3/dino.jpeg
+Thu, 02 Jun 2016 12:10:57 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:11:10 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:11:10 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/quotes.jpg
+Thu, 02 Jun 2016 12:11:10 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:11:15 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:11:15 +0530 INFO [client 10.204.37.18] [OPTIONS] [Page Requested] ../../www/quotes.jpg
+Thu, 02 Jun 2016 12:11:19 +0530 INFO [client 10.204.37.18] [DELETE] [Page Requested] ../../www/quotes.jpg
+Thu, 02 Jun 2016 12:11:19 +0530 INFO [client 10.204.37.18] [DELETE] [File Deleted] ../../www/quotes.jpg
+Thu, 02 Jun 2016 12:11:22 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:11:22 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/quotes.jpg
+Thu, 02 Jun 2016 12:11:37 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:11:37 +0530 INFO [client 10.204.37.18] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 12:11:37 +0530 INFO [Client 10.204.37.18] [POST] [NEW RESOURCE CREATED] ../../www/kid.gif
+Thu, 02 Jun 2016 12:11:45 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/kid.gif
+Thu, 02 Jun 2016 12:11:45 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:12:10 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:12:10 +0530 INFO [client 10.204.37.18] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 12:12:10 +0530 INFO [Client 10.204.37.18] [POST] [NEW RESOURCE CREATED] ../../www/quotes.jpg
+Thu, 02 Jun 2016 12:12:13 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:12:13 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:12:13 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/quotes.jpg
+Thu, 02 Jun 2016 12:12:13 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:12:37 +0530 SEVERE Select Command failed to start
+Thu, 02 Jun 2016 12:18:02 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 12:18:02 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 12:18:02 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 12:18:02 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 12:18:02 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 12:18:02 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 12:18:02 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 12:18:02 +0530 INFO Starting Server
+Thu, 02 Jun 2016 12:18:02 +0530 INFO Server Started
+Thu, 02 Jun 2016 12:18:02 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 12:18:07 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:18:07 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/
+Thu, 02 Jun 2016 12:18:07 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 12:18:07 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:18:11 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:18:11 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/dasdsad
+Thu, 02 Jun 2016 12:18:11 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/dasdsad/index2.html
+Thu, 02 Jun 2016 12:18:18 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:18:18 +0530 INFO [client 10.204.37.18] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 12:18:18 +0530 INFO [client 10.204.37.18] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 12:18:22 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:18:22 +0530 INFO [client 10.204.37.18] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 12:18:22 +0530 INFO [client 10.204.37.18] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 12:18:23 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:18:23 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/favicon.ico
+Thu, 02 Jun 2016 12:18:24 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:18:27 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 12:18:29 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/readme.txt
+Thu, 02 Jun 2016 12:18:29 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 12:18:34 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 14:25:31 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 14:25:31 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 14:25:31 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 14:25:31 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 14:25:31 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 14:25:31 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 14:25:31 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 14:25:31 +0530 INFO Starting Server
+Thu, 02 Jun 2016 14:25:31 +0530 INFO Server Started
+Thu, 02 Jun 2016 14:25:31 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 14:25:46 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:46 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 14:25:46 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:46 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 14:25:47 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:47 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 14:25:47 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:47 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 14:25:48 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:48 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 14:25:48 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:48 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:49 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:25:49 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:49 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:25:49 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:49 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:49 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:49 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:25:50 +0530 INFO Base Directory Created Thread-2
+Thu, 02 Jun 2016 14:25:50 +0530 INFO Resource Created ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Base Directory Created Thread-1
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Resource Created ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:51 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:25:51 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:51 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:51 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:25:52 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 14:25:53 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 14:26:31 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 14:26:32 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/
+Thu, 02 Jun 2016 14:26:32 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:26:32 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:26:34 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 14:26:34 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/readme.txt
+Thu, 02 Jun 2016 14:26:34 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:26:35 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 14:26:38 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] ../../www/dsd
+Thu, 02 Jun 2016 14:26:38 +0530 INFO [client 10.204.37.18] [GET] [Page Requested] 404 ERROR ../../www/dsd/index2.html
+Thu, 02 Jun 2016 14:26:42 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 14:26:42 +0530 INFO [client 10.204.37.18] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 14:26:42 +0530 INFO [client 10.204.37.18] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 14:26:49 +0530 INFO Client Connected at 10.204.37.18
+Thu, 02 Jun 2016 14:57:17 +0530 INFO Initializing Server
+Thu, 02 Jun 2016 14:57:17 +0530 FINE [Config File Opened Successfully] ../../config/config
+Thu, 02 Jun 2016 14:57:17 +0530 FINE [File Opened] Configuration Loaded Successfully
+Thu, 02 Jun 2016 14:57:17 +0530 FINE [Redirect File Opened Successfully] ../../.graccess
+Thu, 02 Jun 2016 14:57:17 +0530 FINE [File Opened] Redirection Loaded Successfully
+Thu, 02 Jun 2016 14:57:17 +0530 INFO Host Information Found
+Thu, 02 Jun 2016 14:57:17 +0530 INFO Binding to Socket Successfull
+Thu, 02 Jun 2016 14:57:17 +0530 INFO Starting Server
+Thu, 02 Jun 2016 14:57:17 +0530 INFO Server Started
+Thu, 02 Jun 2016 14:57:17 +0530 INFO Listening to Server Socket successfull
+Thu, 02 Jun 2016 14:57:50 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:50 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 14:57:50 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:50 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 14:57:51 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:51 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:51 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 14:57:51 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 14:57:52 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:52 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:52 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 14:57:52 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:53 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:57:53 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:53 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:57:53 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:53 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:53 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:53 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:57:54 +0530 INFO Base Directory Created Thread-1
+Thu, 02 Jun 2016 14:57:54 +0530 INFO Resource Created ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:57:55 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:55 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:55 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:55 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:55 +0530 INFO Base Directory Created Thread-2
+Thu, 02 Jun 2016 14:57:55 +0530 INFO Resource Created ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:57:55 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:55 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:55 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:57:55 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:57:55 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:55 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 14:57:55 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:55 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:57:56 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 14:57:57 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:57 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:57 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:57 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:57:57 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 14:57:58 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 14:59:25 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:25 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:25 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 14:59:25 +0530 INFO [Client 127.0.0.1] [505 HTTP VERSION NOT SUPPORTED]
+Thu, 02 Jun 2016 14:59:26 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:26 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 14:59:26 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:26 +0530 INFO [Client 127.0.0.1] [501 NOT IMPLEMENTED]
+Thu, 02 Jun 2016 14:59:27 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:27 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 14:59:27 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:27 +0530 INFO [Client 127.0.0.1] [400 BAD REQUEST]
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:28 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:28 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:59:28 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:59:28 +0530 SEVERE Error in Receiving
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:28 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:59:28 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:28 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:28 +0530 INFO [client 127.0.0.1] [OPTIONS] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:59:29 +0530 INFO Base Directory Created Thread-1
+Thu, 02 Jun 2016 14:59:30 +0530 INFO Resource Created ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:59:30 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:30 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:30 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:30 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:30 +0530 INFO Base Directory Created Thread-2
+Thu, 02 Jun 2016 14:59:30 +0530 INFO Resource Created ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:59:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:31 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:59:31 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:31 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:59:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:31 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:31 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:31 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:59:32 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 14:59:32 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:32 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:32 +0530 INFO [client 127.0.0.1] [POST] [Page Requested] ../../www/index2.html
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [Client 127.0.0.1] [POST] [NEW RESOURCE CREATED] ../../www/image.gif
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [HEAD] [Page Requested] ../../www/image.gif
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-1/dino.jpeg
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Disconnected
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [DELETE] [Page Requested] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [DELETE] [File Deleted] ../../www/Thread-2/dino.jpeg
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [GET] [Page Requested] 404 ERROR ../../www/random.html
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [GET] FORBIDDEN TO ACCESS ../../www/check403.html
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [GET] [Page Served] 403 error ../../www/check403.html
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [HEAD] 308 REDIRECT PERMANENT MOVED../../www/new_page.html
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO Client Connected at 127.0.0.1
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
+Thu, 02 Jun 2016 14:59:33 +0530 INFO [client 127.0.0.1] [HEAD] 307 REDIRECT TEMPORARILY MOVED../../www/old_page.html
