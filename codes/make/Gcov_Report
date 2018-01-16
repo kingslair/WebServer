@@ -1,0 +1,57 @@
+cd ../gcov && gcov ../sources/*.c
+File '../sources/init.c'
+Lines executed:100.00% of 63
+../sources/init.c:creating 'init.c.gcov'
+
+File '../sources/http_server_helper.c'
+Lines executed:100.00% of 17
+../sources/http_server_helper.c:creating 'http_server_helper.c.gcov'
+
+File '../sources/http_request_handler.c'
+Lines executed:91.89% of 37
+../sources/http_request_handler.c:creating 'http_request_handler.c.gcov'
+
+File '../sources/http_POST_request_handler.c'
+Lines executed:81.35% of 252
+../sources/http_POST_request_handler.c:creating 'http_POST_request_handler.c.gcov'
+
+File '../sources/http_OPTIONS_request_handler.c'
+Lines executed:100.00% of 44
+../sources/http_OPTIONS_request_handler.c:creating 'http_OPTIONS_request_handler.c.gcov'
+
+File '../sources/http_GET_HEAD_request_handler.c'
+Lines executed:77.46% of 71
+../sources/http_GET_HEAD_request_handler.c:creating 'http_GET_HEAD_request_handler.c.gcov'
+
+File '../sources/helper_functions.c'
+Lines executed:78.48% of 79
+../sources/helper_functions.c:creating 'helper_functions.c.gcov'
+
+File '../sources/http_DELETE_request_handler.c'
+Lines executed:53.85% of 65
+../sources/http_DELETE_request_handler.c:creating 'http_DELETE_request_handler.c.gcov'
+
+File '../sources/http_helper_functions.c'
+Lines executed:83.10% of 142
+../sources/http_helper_functions.c:creating 'http_helper_functions.c.gcov'
+
+File '../sources/http_parser.c'
+Lines executed:65.48% of 84
+../sources/http_parser.c:creating 'http_parser.c.gcov'
+
+File '../sources/http_PUT_request_handler.c'
+Lines executed:58.48% of 407
+../sources/http_PUT_request_handler.c:creating 'http_PUT_request_handler.c.gcov'
+
+File '../sources/http_server.c'
+Lines executed:86.08% of 158
+../sources/http_server.c:creating 'http_server.c.gcov'
+
+File '../sources/http_status_codes.c'
+Lines executed:82.22% of 90
+../sources/http_status_codes.c:creating 'http_status_codes.c.gcov'
+
+File '../sources/log.c'
+Lines executed:84.62% of 26
+../sources/log.c:creating 'log.c.gcov'
+

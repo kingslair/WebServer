@@ -1,0 +1,22 @@
+[31mError in Opening Log File[0m
+[31mError in getting file size[0m
+Getting last modified date failed
+[31mError in Opening Log File[0m
+[31mError in reading file ../../../www/error/400.html[0m
+[31mError in Opening Log File[0m
+[31mError in sending HTTP 400 response to Client[0m
+[31mError in Opening Log File[0m
+[31mError in reading file not_exists[0m
+
+Getting last modified date failed
+[31mNo digits are found[0m
+
+(process:30518): GLib-CRITICAL **: g_ascii_strup: assertion `str != NULL' failed
+[31mError in Opening Log File[0m
+[33m[Client @Öß] [(null)] [Page Requested] 404 ERROR (null)[0m
+[31mError in getting file size[0m
+Getting last modified date failed
+[31mError in Opening Log File[0m
+[31mError in reading file www/error/404.html[0m
+[31mError in Opening Log File[0m
+[31mError in sending HTTP 404 response to Client[0m
